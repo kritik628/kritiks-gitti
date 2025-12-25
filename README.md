@@ -1,3 +1,4 @@
 # kritiks-gitti
-my first repo
-author -kritik aggarwal
+my first github repository.
+<br>
+Author -kritik aggarwal
